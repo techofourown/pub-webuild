@@ -1,0 +1,17 @@
+{
+  "name": "pub-webuild",
+  "private": true,
+  "version": "0.0.0",
+  "description": "We Build: Hardware building publication series validated as a GraphMD dataset in CI.",
+  "license": "CC-BY-4.0",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "validate:dataset": "node tools/validate-dataset.cjs",
+    "test": "npm run validate:dataset"
+  },
+  "devDependencies": {
+    "@graphmd/dataset": "0.x"
+  }
+}
