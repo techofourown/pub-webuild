@@ -3,14 +3,12 @@ typeId: rfc
 recordId: webuild-rfc-0000-template
 parent: publication_series:webuild
 fields:
-  status: Template
   title: "RFC Template"
   created: "2025-02-03"
 ---
 
 # RFC-XXXX: [Title]
 
-**Status:** Draft | Discussion | Accepted | Rejected | Withdrawn
 **Created:** YYYY-MM-DD
 **Updated:** YYYY-MM-DD
 

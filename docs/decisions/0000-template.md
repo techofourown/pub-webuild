@@ -3,15 +3,11 @@ typeId: adr
 recordId: webuild-adr-0000-template
 parent: publication_series:webuild
 fields:
-  status: Template
   title: "ADR Template"
   created: "2025-02-03"
 ---
 
 # ADR-XXXX: [Title in Active Voice]
-
-## Status
-Proposed | Accepted | Deprecated | Superseded by [ADR-YYYY-descriptive-slug]
 
 ## Context
 
